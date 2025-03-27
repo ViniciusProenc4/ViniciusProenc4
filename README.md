@@ -5,6 +5,8 @@
 - 📚 Estudando JavaScript e Python
 - ⚡ Online a todo momento
 - 🏢 Acesse também ↓
-<a href="https://www.linkedin.com/in/vinícius-proença-157228359" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
+## 🌐 Socials:
+<a href="https://linkedin.com/in/marcio-gastaldi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
