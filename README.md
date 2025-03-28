@@ -7,6 +7,6 @@
 - 🏢 Acesse também ↓
 
 ## 🌐 Socials:
-<a href="https://linkedin.com/in/vinícius-proença-157228359/)" target="_blank">
+<a href="https://linkedin.com/in/viniciusproenc4/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
