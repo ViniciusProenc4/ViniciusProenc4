@@ -1,7 +1,7 @@
 ## Olá, sou o Vinícius Proença👋🏼
 
 - 👨🏼‍🎓 Cursando ADS
-- 🌱 Disponível a oportunidades
+- 🌱 Disponível a oportunidades de trabalho
 - 📚 Estudando JavaScript e Python
 - ⚡ Online a todo momento
 - 🏢 Acesse também ↓
