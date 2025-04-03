@@ -2,7 +2,7 @@
 
 - 👨🏼‍🎓 Cursando ADS
 - 🌱 Disponível a oportunidades de trabalho
-- 📚 Estudando JavaScript e Python
+- 📚 Estudando Web Development - Full Stack
 - ⚡ Online a todo momento
 - 🏢 Acesse também ↓
 
